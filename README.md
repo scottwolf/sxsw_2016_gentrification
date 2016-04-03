@@ -1,7 +1,7 @@
 # SXSWi 2016 Gentrification Talk
 R code that was used to perform the analyses conducted for my talk.
 
-#### "1 LTDB loading and variable creation.R"
+#### "1 ltdb loading and variable creation.R"
 * This file preps the decennial Census (1970, 1980, 1990, 2000, 2010) and ACS (2008, 2010, 2011) datasets. 
 * There are far more lines of code than were ultimately necessary for the gentrification analyses. This was done in order to transform variables necessary for exploring other possible predictors and indicators. 
 * Note: change working directory lines throughout the code to match your needs.

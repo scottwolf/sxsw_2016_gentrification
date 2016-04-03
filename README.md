@@ -16,4 +16,4 @@ R code that was used to perform the analyses conducted for my talk.
 * Same as above, but for the Bay Area counties of Alameda, Contra Costa, San Francisco, San Mateo, and Marin.
 
 
-##### After completing the above steps, datasets for each metropolitan area were uploaded to cartodb.com along with the GIS shapefiles of the census tracts for each metropolitan area, merged, and visualized.
+##### After completing the above steps, datasets for each metropolitan area were uploaded to cartodb.com along with the GIS shapefiles of the census tracts for each metropolitan area. The GIS shapefile and the datasets were merged, and visualized, filtered by timeperiod.

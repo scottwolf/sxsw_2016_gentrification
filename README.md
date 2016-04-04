@@ -18,4 +18,10 @@ R code that was used to perform the analyses conducted for my talk.
   
   
 ##### After completing the above steps, datasets for each metropolitan area were uploaded to cartodb.com along with the GIS shapefiles of the census tracts for each metropolitan area.
-##### The GIS shapefile and the datasets were merged, then visualized (filtered by timeperiod).
+##### The GIS shapefiles and the datasets were merged, then visualized in cartodb.com (filtered by timeperiod).
+##### Analyses on Starbucks and Dunkin' Donuts locations were first compiled in cartodb.com and then exported for simple analyses in R (code not included here).
+##### Census and ACS data along 2010 Census Tract boundaries was taken from the Longitudinal Tract Data Base (LTDB): http://www.s4.brown.edu/us2010/Researcher/Bridging.htm
+##### Additional ACS data from the US Census Planning Database: http://www.census.gov/research/data/planning_database/
+##### Starbucks location data: https://opendata.socrata.com/Business/All-Starbucks-Locations-in-the-World/xy4y-c4mk
+##### Dunkin' Donuts location data: https://www.arcgis.com/home/item.html?id=ce74fe1059ea4d57b34a7adda66d361a
+

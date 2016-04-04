@@ -24,4 +24,5 @@ R code that was used to perform the analyses conducted for my talk.
 ##### Additional ACS data from the US Census Planning Database: http://www.census.gov/research/data/planning_database/
 ##### Starbucks location data: https://opendata.socrata.com/Business/All-Starbucks-Locations-in-the-World/xy4y-c4mk
 ##### Dunkin' Donuts location data: https://www.arcgis.com/home/item.html?id=ce74fe1059ea4d57b34a7adda66d361a
+##### For analyses, dollar values were adjusted to 2010 dollar values throughout via http://www.usinflationcalculator.com/, examples in the PowerPoint presentation are adjusted to 2016 dollar values via http://data.bls.gov/cgi-bin/cpicalc.pl
 
